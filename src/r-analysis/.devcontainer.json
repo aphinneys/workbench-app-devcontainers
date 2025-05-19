@@ -24,7 +24,7 @@
       "version": "17"
     },
     "ghcr.io/rocker-org/devcontainer-features/r-packages:1": {
-      "packages": "shiny,shinydashboard",
+      "packages": "shiny,shinydashboard,BiocManager",
       "installSystemRequirements": true
     },
     "ghcr.io/devcontainers/features/aws-cli:1": {},
